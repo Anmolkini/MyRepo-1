@@ -30,8 +30,8 @@
 
 
 
-6. The user will get a pop up similar to the image below, please click on I Understand, continue
- ![image](![image](https://user-images.githubusercontent.com/37663104/126991687-1573b6c5-ada8-4901-a402-73ea3e0c2ba4.png)
+6. The user will get a pop up similar to the image below, please click on *I Understand, continue*
+![image](https://user-images.githubusercontent.com/37663104/126991687-1573b6c5-ada8-4901-a402-73ea3e0c2ba4.png)
 
  
 

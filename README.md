@@ -31,7 +31,7 @@
 
 
 6. The user will get a pop up similar to the image below, please click on I Understand, continue
- ![image](https://github.com/Anmolkini/MyRepo-1/blob/ffc787ad3241f445d31cd931b215a651955d12ca/cccs.jpg)
+ ![image](https://github.com/Anmolkini/MyRepo-1/blob/1883efed49cd94ab37282d12d7afd876341bab84/cccs6.jpg)
 
  
 

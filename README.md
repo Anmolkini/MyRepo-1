@@ -19,7 +19,7 @@ Step 2: The user will get a pop up similar to the image below, please click on *
 
  
 
-7.	The user can now use the Sign-in link, Username, and Password to login to the AWS Environment in the same vm.
+Step 3:	The user can now use the Sign-in link, Username, and Password to login to the AWS Environment in the same vm.
 
 
 ![image](https://user-images.githubusercontent.com/85232046/126780852-648e8f2e-d3e3-4494-af15-a526e6f947f9.png)
